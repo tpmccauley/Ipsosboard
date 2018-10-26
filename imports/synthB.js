@@ -1,5 +1,5 @@
 //var Tone = require("Tone");
-import Tone, { Synth } from ‘tone’;
+import Tone, { Synth } from "tone";
 
 var synthB = new Tone.Synth({
 	  oscillator : {

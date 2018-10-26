@@ -8,7 +8,7 @@ import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.css';
 
 //var Tone = require("Tone");
-import Tone, { Synth } from ‘tone’;
+import Tone, { Synth } from "tone";
 
 //Session.setDefault('slider', [0.1, 0.6]);
 Session.setDefault('midinote', [20.0, 60.0]);
